@@ -5,7 +5,7 @@
 - 📚 Graduando em Engenharia de Software e paralelamente cursos extracurriculares
 - 🌱 Atualmente estou aprimorando minhas habilidades em Node.Js, APIs e bancos de dados
 - 💬 Pergunte-me sobre: JavaScript, Node.Js, NestJs, PostgreSQL entre outras tecnologias...
-- 👩‍💻 Todos os meus projetos estão disponíveis no GitHub <a href="https://github.com/CassioJr08?tab=repositories" target="_blank" > CassioJr08 </a>
+- 👩‍💻 Todos os meus projetos estão disponíveis no GitHub <a href="https://github.com/CassioJr08?tab=repositories" target="_blank" > CassioJr-Dev </a>
 - ⚡ Curiosidade: amo ler e praticar esportes
   
   <br>
