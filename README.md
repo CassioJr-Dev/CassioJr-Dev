@@ -30,7 +30,7 @@
   <h3> Contatos: </h3>
   
   <a href="mailto:carolinafdornas@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
-   [cassiojr0108@gmail.com](mailto:cassiojr0108@gmail.com)
+   [cassiojr.tech.job@gmail.com](mailto:cassiojr.tech.job@gmail.com)
 
   <a href="https://www.linkedin.com/in/carolina-dornas/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
    [Cássio da Silva](https://www.linkedin.com/in/cássio-da-silva)
