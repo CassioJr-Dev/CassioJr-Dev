@@ -1,7 +1,7 @@
 <h2> Olá, meu nome é Cássio da Silva</h2>
   
   **Desenvolvedor Back-end**
-  
+- 📋 Acesse meus principais projetos <a href="https://github.com/stars/CassioJr-Dev/lists/portfolio" target="_blank" > Portfolio </a>
 - 📚 Graduando em Engenharia de Software e paralelamente cursos extracurriculares
 - 🌱 Atualmente estou aprimorando minhas habilidades em Node.Js, APIs e bancos de dados
 - 💬 Pergunte-me sobre: JavaScript, Node.Js, NestJs, PostgreSQL entre outras tecnologias...
